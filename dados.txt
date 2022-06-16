@@ -1,0 +1,10 @@
+Dados do aluno
+
+-Primeiro Nome:Athos
+-Profissão: QA
+-Cidade:Teixeira de Freitas
+-O que faz nas horas vaga: assisto filmes
+-Feedback sobre o curso Qualidade de Software: Ate o momento esta bom, ate recomendei para alguns colegas
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é bem intuitiva
+
+Obrigado!!!
